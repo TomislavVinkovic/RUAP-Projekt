@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "1311031917";
+    std::cout << "Pozdrav iz aplikacije od Tomislav Vinkovic";
 }
